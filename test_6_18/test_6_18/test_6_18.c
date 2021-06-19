@@ -12,9 +12,9 @@
 
 typedef int TElemType;
 
-//Á´Ê½¶ş²æÊ÷´æ´¢½á¹¹
+//äºŒå‰æ ‘é“¾å¼å­˜å‚¨
 typedef struct BiTNode
 {
-	TElemType data;
-	struct BiTNode* lchild, * rchild; //×óÓÒº¢×ÓÖ¸Õë
+	TElemType data;//æ•°æ®åŸŸ
+	struct BiTNode* lchild, * rchild; //å·¦å³å­©å­ç»“ç‚¹
 }BiNode,*BiTree;
