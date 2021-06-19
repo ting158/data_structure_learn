@@ -1,0 +1,4 @@
+﻿  test_6_19_2.c
+E:\数据结构\test_6_19_2\test_6_19_2\test_6_19_2.c(37,5): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+E:\数据结构\test_6_19_2\test_6_19_2\test_6_19_2.c(47): warning C4715: “Copy”: 不是所有的控件路径都返回值
+  test_6_19_2.vcxproj -> E:\数据结构\test_6_19_2\Debug\test_6_19_2.exe
